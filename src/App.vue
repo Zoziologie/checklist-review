@@ -55,7 +55,7 @@
           </span>
           <span class="text-muted small mb-2 mb-md-0">v{{ version }}</span>
           <a
-            href="https://github.com/Zoziologie/ChecklistReview"
+            href="https://github.com/Zoziologie/checklist-review"
             target="_blank"
             class="link-secondary text-muted small d-flex align-items-center text-decoration-none"
             title="Project Repository"

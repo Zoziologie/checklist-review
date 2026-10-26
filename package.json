@@ -10,7 +10,7 @@
   },
   "homepage": "https://github.com/rafnuss/ChecklistReview",
   "bugs": {
-    "url": "https://github.com/rafnuss/ChecklistReview/issues"
+    "url": "https://github.com/rafnuss/checklist-review/issues"
   },
   "type": "module",
   "scripts": {

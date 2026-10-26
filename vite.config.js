@@ -4,7 +4,7 @@ import packageJson from "./package.json";
 
 export default defineConfig({
   plugins: [vue()],
-  base: "/ChecklistReview/",
+  base: "/checklist-review/",
   build: {
     outDir: "dist",
     assetsDir: "assets",
